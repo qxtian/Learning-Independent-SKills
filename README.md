@@ -10,4 +10,7 @@ _mujoco_py_ 2.0.2.8
 
 **Visualization of the practical skills for complex tasks:**
 
-<p align="center"><img src="asset/kunkun_alphapose.gif" width="100%" alt="" /></p>
+<p align="center"><img src="asset/HCH.gif" width="100%" alt="" /></p>
+<p align="center"><img src="asset/HCC.gif" width="100%" alt="" /></p>
+<p align="center"><img src="asset/HCA.gif" width="100%" alt="" /></p>
+<p align="center"><img src="asset/HCU.gif" width="100%" alt="" /></p>
