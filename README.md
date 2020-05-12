@@ -2,7 +2,7 @@
 Task dependent skill transformation is challenging due to the ignorance of the relationships between primitive skills. In this project, we propose a skill decomposition algorithm to learn independent skills, which are more suitable than primitive skills for task dependent skill transformation.
 
 
-**Package Version:**
+**Required Dependencies:**
 
 _Pytorch_ 1.20
 
@@ -10,11 +10,24 @@ _mujoco_py_ 2.0.2.8
 
 **Visualization of the practical skills for complex tasks:**
 
-<img src="asset/HCH.gif" width="50%" alt="" /></p>
-<img src="asset/HCC.gif" width="50%" alt="" /></p>
-<img src="asset/HCA.gif" width="50%" alt="" /></p>
-<img src="asset/HCU.gif" width="50%" alt="" /></p>
+![image](https://github.com/HeGsnS/Learning-Independent-SKills/blob/master/visualization/HCH.gif)
+
+![image](https://github.com/HeGsnS/Learning-Independent-SKills/blob/master/visualization/HCC.gif)
+
+![image](https://github.com/HeGsnS/Learning-Independent-SKills/blob/master/visualization/HCA.gif)
+
+![image](https://github.com/HeGsnS/Learning-Independent-SKills/blob/master/visualization/HCU.gif)
+
+**Cite this Work**
+
+@inproceedings{10.1145/3366424.3383530,
+    author = {Qiangxing Tian, GuanchuWang, Jinxin Liu, Donglin Wang and Yachen Kang},
+    title = {Independent Skill Transfer for Deep Reinforcement Learning},
+    year = {2020},
+    series = {IJCAI '20}
+  }
 
 
 **Acknowledgements**
-...
+
+
