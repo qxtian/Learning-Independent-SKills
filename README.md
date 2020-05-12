@@ -10,13 +10,13 @@ _mujoco_py_ 2.0.2.8
 
 **Visualization of the practical skills for complex tasks:**
 
-![image](https://github.com/qxtian/Learning-Independent-SKills/tree/master/asset/HCH.gif)
+![image](https://github.com/qxtian/Learning-Independent-SKills/asset/HCH.gif)
 
-![image](https://github.com/qxtian/Learning-Independent-SKills/tree/master/asset/HCC.gif)
+![image](https://github.com/qxtian/Learning-Independent-SKills/asset/HCC.gif)
 
-![image](https://github.com/qxtian/Learning-Independent-SKills/tree/master/asset/HCA.gif)
+![image](https://github.com/qxtian/Learning-Independent-SKills/asset/HCA.gif)
 
-![image](https://github.com/qxtian/Learning-Independent-SKills/tree/master/asset/HCU.gif)
+![image](https://github.com/qxtian/Learning-Independent-SKills/asset/HCU.gif)
 
 **Cite this Work**
 
