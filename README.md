@@ -20,15 +20,11 @@ _mujoco_py_ 2.0.2.8
 
 **Cite this Work**
 
-@inproceedings{10.1145/3366424.3383530,
-    author = {Qiangxing Tian, GuanchuWang, Jinxin Liu, Donglin Wang and Yachen Kang},
-    
-    title = {Independent Skill Transfer for Deep Reinforcement Learning},
-    
-    year = {2020},
-    
-    series = {IJCAI '20}
-    
+@inproceedings{10.1145/3366424.3383530,  
+    author = {Qiangxing Tian, GuanchuWang, Jinxin Liu, Donglin Wang and Yachen Kang},  
+    title = {Independent Skill Transfer for Deep Reinforcement Learning},  
+    year = {2020},  
+    series = {IJCAI '20}  
   }
 
 
