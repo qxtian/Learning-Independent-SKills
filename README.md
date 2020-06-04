@@ -30,4 +30,4 @@ _mujoco_py_ 2.0.2.8
 
 **Acknowledgements**
 
-
+Thanks Guangdong Bozhilin Inc. for their financial support, and thanks all of the contributors to this project!
